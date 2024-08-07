@@ -1,6 +1,6 @@
 ### boas vindas ao meu perfil 🤡
 
-meu nome é lucas
+meu nome é Lucas
 
 - Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
